@@ -88,7 +88,7 @@ export default App;
 const styles = StyleSheet.create({
   drawerLStyle: {
     backgroundColor: 'blue',
-    width: 300,
+    width: 200,
     borderTopRightRadius: 17,
     borderBottomRightRadius: 17,
   },
